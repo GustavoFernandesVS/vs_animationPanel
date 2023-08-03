@@ -24,8 +24,6 @@ Semelhante à velocidade de abertura, você pode ajustar a velocidade da animaç
 
 1. Certifique-se de ter o ambiente de desenvolvimento do MTA configurado e um editor de texto para editar o código Lua.
 
-2. Copie o código Lua fornecido no arquivo `panel.lua` e cole-o em um novo recurso no MTA.
-
 3. Certifique-se de ter criado uma tecla de atalho no MTA para a função `togglePanel`. Por padrão, usamos a tecla "K", mas você pode alterá-la para uma tecla de sua preferência.
 
 4. Execute o recurso no jogo e teste a animação de abertura e fechamento do painel pressionando a tecla configurada.
